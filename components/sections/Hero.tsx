@@ -41,7 +41,7 @@ export function Hero() {
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: 0.1 }}
-                className="mb-6 font-[family-name:var(--font-display)] text-4xl font-bold leading-tight tracking-tight text-foreground sm:text-5xl lg:text-6xl"
+                className="mb-6 font-[family-name:var(--font-display)] text-5xl font-bold leading-tight tracking-tight text-foreground sm:text-6xl lg:text-7xl"
               >
                 Better Call{" "}
                 <span className="text-gold">Saul</span>
