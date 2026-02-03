@@ -41,6 +41,21 @@ The main landing page with all sections:
 9. **Contact CTA** — Gold section with consultation form
 10. **Footer** — Dark footer with practice areas and contact info
 
+### Case Results (`/case-results`)
+Comprehensive showcase of case victories organized by practice area:
+
+1. **Hero** — "Results That Speak for Themselves" headline
+2. **Stats Bar** — Key metrics: 95% acquittal rate, 3,000+ cases won, $50M+ in fines avoided, 20+ years experience
+3. **Featured Victory** — Large gold card highlighting the federal drug trafficking acquittal with full details
+4. **Results by Category** — 6 sections matching practice areas:
+   - Criminal Defense (murder, assault, robbery, felony reductions)
+   - DUI & Traffic (third offense dismissals, DUI with injury, reductions)
+   - Drug Charges (trafficking dismissals, possession diversions)
+   - White Collar (wire fraud, embezzlement, tax evasion)
+   - Federal Cases (conspiracy, RICO, bank fraud)
+   - Appeals (conviction reversals, expungements, sentence modifications)
+5. **CTA Section** — "Your Case Could Be Next" with consultation prompt
+
 ### Practice Areas (`/practice-areas`)
 Detailed breakdown of all criminal defense services:
 
@@ -168,6 +183,8 @@ Edit these files:
 
 ## Recent Changes
 
+- Created Case Results page (`/case-results`) with 24 case outcomes organized by practice area, stats bar, and featured federal acquittal
+- Updated navbar "Case Results" link to point to `/case-results`
 - Created Practice Areas page (`/practice-areas`) with detailed service descriptions
 - Updated navbar with proper page links (Practice Areas, Case Results, About, Testimonials, Blog, Contact)
 - Fixed mobile menu: now shows solid background when open at top of page (was transparent before)
