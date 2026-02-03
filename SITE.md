@@ -67,6 +67,22 @@ Comprehensive about page featuring Saul's full story:
 6. **Credentials Section** — Bar admissions, certifications, and professional associations
 7. **CTA Section** — Gold background with consultation prompt
 
+### Testimonials (`/testimonials`)
+Full testimonials page showcasing client stories by case type:
+
+1. **Hero** — "Real Stories From Real Clients" headline
+2. **Stats Bar** — Review metrics: 500+ reviews, 4.9 rating, 98% recommend, 3,000+ clients
+3. **Featured Testimonial** — Large gold-bordered card with Jesse P.'s federal drug case acquittal
+4. **Testimonials by Category** — 6 sections with 3 testimonials each:
+   - Criminal Defense (assault, felony theft, robbery)
+   - DUI & Traffic (third offense DUI, hit and run)
+   - Drug Charges (trafficking, possession, manufacturing)
+   - White Collar (embezzlement, wire fraud, tax evasion)
+   - Federal Cases (RICO, bank fraud, conspiracy)
+   - Appeals & Expungements (conviction appeals, expungements, sentence modifications)
+5. **Trust Indicators** — Ratings from Google (4.9), Avvo (10.0), Yelp (4.8), Facebook (4.9)
+6. **CTA Section** — "Your Story Could Be Next" with consultation prompt
+
 ### Practice Areas (`/practice-areas`)
 Detailed breakdown of all criminal defense services:
 
@@ -194,6 +210,7 @@ Edit these files:
 
 ## Recent Changes
 
+- Created Testimonials page (`/testimonials`) with 18 client stories organized by case type, featured testimonial, review stats, and platform ratings
 - Created About page (`/about`) with Saul's full story, career timeline, values, credentials, and CTA
 - Created Case Results page (`/case-results`) with 24 case outcomes organized by practice area, stats bar, and featured federal acquittal
 - Updated navbar "Case Results" link to point to `/case-results`
