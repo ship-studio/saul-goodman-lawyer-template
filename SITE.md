@@ -56,6 +56,17 @@ Comprehensive showcase of case victories organized by practice area:
    - Appeals (conviction reversals, expungements, sentence modifications)
 5. **CTA Section** — "Your Case Could Be Next" with consultation prompt
 
+### About (`/about`)
+Comprehensive about page featuring Saul's full story:
+
+1. **Hero** — "I Didn't Take the Easy Road" headline with photo
+2. **Stats Bar** — Key metrics: 95% acquittal rate, 3,000+ cases, 24/7 availability, 20+ years
+3. **Story Section** — Full narrative of Saul's journey from mailroom to courtroom
+4. **Career Timeline** — 6 milestones from 1998 to 2024 with alternating layout
+5. **Values Section** — 4 differentiators: answers phone, knows the system, fights hard, never gives up
+6. **Credentials Section** — Bar admissions, certifications, and professional associations
+7. **CTA Section** — Gold background with consultation prompt
+
 ### Practice Areas (`/practice-areas`)
 Detailed breakdown of all criminal defense services:
 
@@ -183,6 +194,7 @@ Edit these files:
 
 ## Recent Changes
 
+- Created About page (`/about`) with Saul's full story, career timeline, values, credentials, and CTA
 - Created Case Results page (`/case-results`) with 24 case outcomes organized by practice area, stats bar, and featured federal acquittal
 - Updated navbar "Case Results" link to point to `/case-results`
 - Created Practice Areas page (`/practice-areas`) with detailed service descriptions
